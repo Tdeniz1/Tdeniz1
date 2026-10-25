@@ -4,4 +4,4 @@ I study Biomedical Engineering at the University of South Carolina (B.S. 2027). 
 
 **Papers:** sole author in *Medical Hypotheses* (2025) · Turk & Wu, *IEEE ICHI 2026* · [citation integrity of open-weight LLMs on medical claims](https://doi.org/10.5281/zenodo.22030231) (data + code)
 
-[LinkedIn](https://www.linkedin.com/in/deniz-turk) · [ORCID](https://orcid.org/0009-0000-3474-3150)
+[LinkedIn](https://www.linkedin.com/in/deniz-turk)
